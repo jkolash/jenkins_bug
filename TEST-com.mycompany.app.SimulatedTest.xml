@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite failures="0" time="0.009" errors="0" skipped="0" tests="1" name="com.mycompany.app.SimulatedTest">
+  <testcase time="0.001" classname="com.mycompany.app.SimulatedTest" name="testSim"/>
+</testsuite>
